@@ -40,7 +40,7 @@ Open:
 
 **Extensions → Apps Script**
 
-Add the provided Apps Script from the <a> href="https://github.com/tracking-with-bahar/google-sheet-lookup/blob/main/appscript%20.js" appscript </a> file on this GitHub repository and update:
+Add the provided [Apps Script](https://github.com/tracking-with-bahar/google-sheet-lookup/blob/main/appscript%20.js) file to your Google Sheet's Apps Script editor.
 
 ```javascript
 const googleSheetId = "YOUR_GOOGLE_SHEET_ID";
