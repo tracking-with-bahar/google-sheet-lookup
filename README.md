@@ -44,7 +44,7 @@ Add the provided [Apps Script](https://github.com/tracking-with-bahar/google-she
 
 ```javascript
 const googleSheetId = "YOUR_GOOGLE_SHEET_ID";
-const googleSheetName = "Sheet1";
+const googleSheetName = "YOUR_GOOGLE_SHEET_NAME";
 ```
 
 Deploy it as a **Web App** and copy the Web App URL.
