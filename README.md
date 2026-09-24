@@ -75,5 +75,3 @@ This template provides a practical way to use Google Sheets for those cases.
 * Server-Side Google Tag Manager
 * Google Sheet
 * Google Apps Script Web App
-
-If you find a useful sGTM use case for it, feel free to share it.
