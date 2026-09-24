@@ -1,0 +1,5 @@
+homepage: "https://www.linkedin.com/in/tracking-specialist/"
+documentation: "https://github.com/tracking-with-bahar/google-sheet-lookup"
+versions:
+  - sha: 528a1b94422b1ba1c0b853d04807649e21bdf5ac
+    changeNotes: Initial release.
