@@ -51,7 +51,7 @@ Deploy it as a **Web App** and copy the Web App URL.
 
 ### 3. sGTM  
 
-Import the variable template and add your Web App URL.
+Import the variable [template](https://github.com/tracking-with-bahar/google-sheet-lookup/blob/main/template.tpl) and add your Web App URL.
 
 For lookup:
 
